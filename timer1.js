@@ -23,6 +23,8 @@ const timer = function(times) {
   }, actualTimes[0] * 1000);
 };
 
+
+
 /*This function sets up the times array by removing any negative numbers and strings that the
 user may have passed into the timer function.
 times: the array of times the user inputted into the timer function.*/
